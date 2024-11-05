@@ -1,1 +1,1 @@
-ragflow:v0.12.0
+valkey/valkey:8
